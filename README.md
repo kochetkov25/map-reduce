@@ -1,4 +1,4 @@
-# Simplifie MapReduce in C++
+# Simplified MapReduce in C++
 
 ## Project Overview
 
